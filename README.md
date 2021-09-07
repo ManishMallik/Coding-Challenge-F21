@@ -30,3 +30,4 @@ Submissions will be evaluated holistically and based on a combination of effort,
 
 Regardless if you can or cannot answer the question, provide a short explanation of how you got your solution or how you think it can be solved in your README.md file. However, we highly recommend giving the challenge a try, you just might learn something new!
 
+Answer: I may have not solved this challenge yet and may not be able to finish it in time, but I think this challenge can be solved in the following steps. After importing an API and setting up an environment to do some natural language processing, a pipeline, tokenization, sentence splits, parts of speech, lemmatization, and named entity recognizer are needed before sentimental analysis can be used. These will help a program perform sentiment analysis by being able to read the sentences, split them, recognize some entities, and recognize some words before evaluating each of those sentences to positive, neutral, or negative.
